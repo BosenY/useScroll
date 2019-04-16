@@ -1,0 +1,131 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
+        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/typescript/lib/lib.es2016.full.d.ts": {
+        "version": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac",
+        "signature": "a1205f8b74ba57896ae4eb9ff19a5ffc7f210352b0b535abcd36d6b06225a3ac"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/@types/react/global.d.ts": {
+        "version": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba",
+        "signature": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/csstype/index.d.ts": {
+        "version": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91",
+        "signature": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/@types/prop-types/index.d.ts": {
+        "version": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6",
+        "signature": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6"
+      },
+      "/users/xy.yang/project/usescroll/node_modules/@types/react/index.d.ts": {
+        "version": "5ce793a69baa03299c5f4c0f0ee4985afc6527b7409f7f54fd89f97f64bf6aec",
+        "signature": "5ce793a69baa03299c5f4c0f0ee4985afc6527b7409f7f54fd89f97f64bf6aec"
+      },
+      "/users/xy.yang/project/usescroll/index.ts": {
+        "version": "2087bdb8a1f543178a156c0792dd4110332345e9f1a2bb38b38ad11c0c4d6524",
+        "signature": "dc5e67e8bbf03a881321e6efae3278207275c71c0b86b8a3f59c003f83b9200c"
+      }
+    },
+    "options": {
+      "rootDir": "/Users/xy.yang/project/useScroll/src",
+      "outDir": "/Users/xy.yang/project/useScroll/lib",
+      "declarationDir": "/Users/xy.yang/project/useScroll/lib",
+      "moduleResolution": 2,
+      "strictNullChecks": true,
+      "module": 6,
+      "jsx": 2,
+      "target": 3,
+      "declaration": true,
+      "composite": true,
+      "esModuleInterop": true,
+      "configFilePath": "/Users/xy.yang/project/useScroll/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/xy.yang/project/usescroll/node_modules/@types/react/index.d.ts": [
+        "/users/xy.yang/project/usescroll/node_modules/csstype/index.d.ts",
+        "/users/xy.yang/project/usescroll/node_modules/@types/prop-types/index.d.ts",
+        "/users/xy.yang/project/usescroll/node_modules/@types/react/global.d.ts"
+      ],
+      "/users/xy.yang/project/usescroll/index.ts": [
+        "/users/xy.yang/project/usescroll/node_modules/@types/react/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/xy.yang/project/usescroll/node_modules/@types/react/index.d.ts": [
+        "/users/xy.yang/project/usescroll/node_modules/csstype/index.d.ts",
+        "/users/xy.yang/project/usescroll/node_modules/@types/prop-types/index.d.ts",
+        "/users/xy.yang/project/usescroll/node_modules/@types/react/global.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "3.4.3"
+}
