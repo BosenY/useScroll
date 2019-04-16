@@ -1,5 +1,5 @@
 node_modules
 *.js
 *.d.ts
-lib/tsconfig.tsbuildinfo
+./lib/tsconfig.tsbuildinfo
 tsconfig.tsbuildinfo
